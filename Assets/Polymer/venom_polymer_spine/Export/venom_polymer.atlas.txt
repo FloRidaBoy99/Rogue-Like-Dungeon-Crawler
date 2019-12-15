@@ -1,0 +1,167 @@
+
+venom_polymer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 402, 324
+  size: 200, 80
+  orig: 200, 80
+  offset: 0, 0
+  index: -1
+bubble_1
+  rotate: false
+  xy: 826, 824
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+bubble_2
+  rotate: false
+  xy: 182, 151
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+bubble_3
+  rotate: false
+  xy: 202, 543
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+bubble_4
+  rotate: true
+  xy: 2, 2
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+charge_1
+  rotate: false
+  xy: 626, 818
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+charge_2
+  rotate: false
+  xy: 2, 371
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+charge_3
+  rotate: false
+  xy: 2, 165
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+charge_4
+  rotate: true
+  xy: 314, 526
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+charge_5
+  rotate: false
+  xy: 520, 520
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+charge_6
+  rotate: false
+  xy: 202, 320
+  size: 198, 204
+  orig: 198, 204
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 625, 468
+  size: 54, 50
+  orig: 54, 50
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 626, 742
+  size: 106, 74
+  orig: 106, 74
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 967, 928
+  size: 94, 46
+  orig: 94, 46
+  offset: 0, 0
+  index: -1
+skill1_1
+  rotate: false
+  xy: 2, 875
+  size: 310, 147
+  orig: 310, 147
+  offset: 0, 0
+  index: -1
+skill1_2
+  rotate: false
+  xy: 2, 726
+  size: 310, 147
+  orig: 310, 147
+  offset: 0, 0
+  index: -1
+skill1_3
+  rotate: false
+  xy: 314, 875
+  size: 310, 147
+  orig: 310, 147
+  offset: 0, 0
+  index: -1
+skill1_4
+  rotate: false
+  xy: 2, 577
+  size: 310, 147
+  orig: 310, 147
+  offset: 0, 0
+  index: -1
+skill1_5
+  rotate: false
+  xy: 314, 726
+  size: 310, 147
+  orig: 310, 147
+  offset: 0, 0
+  index: -1
+skill2_1
+  rotate: false
+  xy: 826, 844
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+skill2_2
+  rotate: true
+  xy: 2, 24
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+skill2_3
+  rotate: true
+  xy: 202, 179
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
+skill2_4
+  rotate: false
+  xy: 484, 340
+  size: 139, 178
+  orig: 139, 178
+  offset: 0, 0
+  index: -1
