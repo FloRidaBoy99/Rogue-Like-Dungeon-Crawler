@@ -33,6 +33,6 @@ public class PlayerHP : MonoBehaviour
     {
         Debug.Log("Player has died :( ");
         yield return new WaitForSeconds(2);
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("Dungeon");
     }
 }
